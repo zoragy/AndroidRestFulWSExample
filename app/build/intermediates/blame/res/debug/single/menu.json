@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/dev3/AndroidStudioProjects/AndroidRestFulWSExample/app/src/main/res/menu/main.xml"
+    }
+]
